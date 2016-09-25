@@ -1,2 +1,2 @@
 # meteor-skeleton
-Bare Meteor project confired to us lint. Type 'meteor npm run lint'
+Bare Meteor project configured to us lint. Type 'meteor npm run lint'
