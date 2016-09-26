@@ -1,7 +1,7 @@
 {
   "env": {
     "browser": true,
-    "commonjs": true,
+    "meteor": true,
     "es6": true,
     "node": true
   },
@@ -19,7 +19,7 @@
     "indent": [
       "error",
       4
-    ]
+    ],
     "linebreak-style": [
       "error",
       "unix"
@@ -32,14 +32,7 @@
       "error",
       "always"
     ],
-    "prefer-const": [
-      "error",
-      "always"
-    ],
-    "no-extraneous-dependencies": [
-      "warn",
-      "always"
-    ]
+    "prefer-const":       "error"
 
   }
 }
