@@ -4,9 +4,10 @@ import Task from "./Task.jsx";
 // App component - represents the whole app
 export default class App extends Component {
     getTasks() {
+        //TODO get tasks from collection (tasks.js)
         return [
             {_id: 1, text: 'This is task 1'},
-            {_id: 2, text: 'This is task 2'},
+            {_id: 2, text: 'This is another task'},
             {_id: 3, text: 'This is task 3'},
         ];
     }
